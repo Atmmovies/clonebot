@@ -22,7 +22,7 @@
     }
   ],
   "buildpacks": [
-    {"url": "heroku/python"}
+    {"https://github.com/Atmmovies/clonebot": "heroku/python"}
   ],
   "formation": {
     "worker": {
