@@ -4,12 +4,12 @@
   "keywords": ["telegram", "best", "Media", "cloning", "copying", "robot"],
   "logo": "https://cdn.dribbble.com/users/1658045/screenshots/4999712/clonelogo-01.png",
   "website": "https://github.com/m4mallu/conebot",
-  "repository": "https://github.com/m4mallu/clonebot",
+  "repository": "https://github.com/Atmmovies/clonebot",
   "env": {
-        "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "TG_BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
-        "TG_USER_SESSION": {"description": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
+        "APP_ID": {"6961592": "Get this value from https://my.telegram.org", "required": true},
+        "API_HASH": {"ac1416e9117c3f05cd8aac0e555fd51c": "Get this value from https://my.telegram.org" , "required": true},
+        "TG_BOT_TOKEN": {"5219389373:AAHt6dTVntE60fsc8rrn3kt3UUYWTgKGZFk": "Get Bot Token From BotFather Bot","required": true},
+        "TG_USER_SESSION": {"BAARVHklIp6e8x_lgXHecK73VYw6dXJuYw-fWWhWi7aIqGsVaFmwUdYyBnAzat1ZFdGadoOzi-rAB7dqXdcOIqAURWe5bIPQE0WOlstzpBL_1OVPlo5f5Hv9SdamaKR4547EGkuWaqzO3Q5ECr6loizOmdiwOW-tk1cRX6nYyqAOeiY_0wpuSZF14djBxCgs5If8OrHumITBhjp-Ob8GNPJzIHtvVPPd5c9Rj10AAAsfqrLi_86Y7fw1as5OBKly0CmFdfQa4Zyiocp9HAcVm5m8iCXO3ypQKQB8rtuAlSFFfn1gWTjbr_ek4YDf2cBEYh2AwwLGKc0OlmH8zIckJ83zPIFutgA": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
         "AUTH_USERS": {"description": "User ids of authorized users separated by space", "required": false},
         "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
